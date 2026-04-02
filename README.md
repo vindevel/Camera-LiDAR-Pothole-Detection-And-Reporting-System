@@ -1,4 +1,6 @@
-<img width="1076" height="88" alt="image" src="https://github.com/user-attachments/assets/f0ace69e-6239-4a59-8a5c-18741843cdc5" /># 카메라와 LiDAR를 이용한 포트홀 탐지 및 신고 시스템
+<img width="1076" height="88" alt="image" src="https://github.com/user-attachments/assets/f0ace69e-6239-4a59-8a5c-18741843cdc5" />
+
+# 카메라와 LiDAR를 이용한 포트홀 탐지 및 신고 시스템
 
 본 프로젝트는 도로 파손(포트홀)으로 인한 사고를 예방하고 지자체의 신속한 보수를 돕기 위해 개발되었습니다. **카메라의 이미지 분석**과 **LiDAR의 거리 데이터**를 융합하여 포트홀을 정확하게 탐지하고 위험도를 판단하는 솔루션을 제공합니다.
 
